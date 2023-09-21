@@ -63,5 +63,8 @@ echo '''<!DOCTYPE html>
 </head>
 <body>
     <!-- Put all the Contents of Body here -->
+    This is Test Page for Run build
 </body>
 </html>''' >> index.html
+
+npm run start
